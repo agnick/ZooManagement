@@ -1,0 +1,17 @@
+/Users/nikmac/RiderProjects/ZooManagement/src/Zoo.Infrastructure/bin/Debug/net6.0/Zoo.Infrastructure.deps.json
+/Users/nikmac/RiderProjects/ZooManagement/src/Zoo.Infrastructure/bin/Debug/net6.0/Zoo.Infrastructure.dll
+/Users/nikmac/RiderProjects/ZooManagement/src/Zoo.Infrastructure/bin/Debug/net6.0/Zoo.Infrastructure.pdb
+/Users/nikmac/RiderProjects/ZooManagement/src/Zoo.Infrastructure/bin/Debug/net6.0/Zoo.Application.dll
+/Users/nikmac/RiderProjects/ZooManagement/src/Zoo.Infrastructure/bin/Debug/net6.0/Zoo.Domain.dll
+/Users/nikmac/RiderProjects/ZooManagement/src/Zoo.Infrastructure/bin/Debug/net6.0/Zoo.Application.pdb
+/Users/nikmac/RiderProjects/ZooManagement/src/Zoo.Infrastructure/bin/Debug/net6.0/Zoo.Domain.pdb
+/Users/nikmac/RiderProjects/ZooManagement/src/Zoo.Infrastructure/obj/Debug/net6.0/Zoo.Infrastructure.csproj.AssemblyReference.cache
+/Users/nikmac/RiderProjects/ZooManagement/src/Zoo.Infrastructure/obj/Debug/net6.0/Zoo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikmac/RiderProjects/ZooManagement/src/Zoo.Infrastructure/obj/Debug/net6.0/Zoo.Infrastructure.AssemblyInfoInputs.cache
+/Users/nikmac/RiderProjects/ZooManagement/src/Zoo.Infrastructure/obj/Debug/net6.0/Zoo.Infrastructure.AssemblyInfo.cs
+/Users/nikmac/RiderProjects/ZooManagement/src/Zoo.Infrastructure/obj/Debug/net6.0/Zoo.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/nikmac/RiderProjects/ZooManagement/src/Zoo.Infrastructure/obj/Debug/net6.0/Zoo.Infrastructure.csproj.CopyComplete
+/Users/nikmac/RiderProjects/ZooManagement/src/Zoo.Infrastructure/obj/Debug/net6.0/Zoo.Infrastructure.dll
+/Users/nikmac/RiderProjects/ZooManagement/src/Zoo.Infrastructure/obj/Debug/net6.0/refint/Zoo.Infrastructure.dll
+/Users/nikmac/RiderProjects/ZooManagement/src/Zoo.Infrastructure/obj/Debug/net6.0/Zoo.Infrastructure.pdb
+/Users/nikmac/RiderProjects/ZooManagement/src/Zoo.Infrastructure/obj/Debug/net6.0/ref/Zoo.Infrastructure.dll
